@@ -85,11 +85,4 @@ SELECT grade, AVG(int_rate) AS Avg_Interest_Rate FROM bank_loan_data GROUP BY gr
 2️⃣ Run `Bank_Loan_Analysis.sql` in **SQL Server Management Studio (SSMS)**.
 3️⃣ Explore insights using **Excel dashboards**.
 
----
-
-## 📌 Possible Improvements
-🔹 Implement **advanced SQL techniques** like CTEs and indexing for better performance.
-🔹 Add **predictive analytics** to forecast loan defaults.
-🔹 Enhance Excel dashboards with **interactive slicers and dynamic charts**.
-🔹 Automate data processing using Python (Pandas & NumPy).
 
